@@ -1,0 +1,70 @@
+
+
+
+[
+    {
+      "id": 1,
+      "name": "Mass Education",
+      "image": "https://i.postimg.cc/g2jF0MWw/img-4.jpg",
+      "details": "Details about Service 1.",
+      "price": "$50"
+    },
+    {
+      "id": 2,
+      "name": "Physical-Education",
+      "image": "https://i.postimg.cc/R00cyHwx/img-7.jpg",
+      "details": "Details about Service 2.",
+      "price": "$40"
+    },
+    {
+      "id": 3,
+      "name": "Practical-Education",
+      "image": "https://i.postimg.cc/Y0YhGrBS/img-6.jpg",
+      "details": "Details about Service 3.",
+      "price": "$30"
+    },
+    {
+      "id": 4,
+      "name": "Social-Education",
+      "image": "https://i.postimg.cc/8cWWL8rZ/img-1.jpg",
+      "details": "Details about Service 4.",
+      "price": "$70"
+    },
+    {
+      "id": 5,
+      "name": "Management-Education",
+      "image": "https://i.postimg.cc/CxmZjSmx/img-9.jpg",
+      "details": "Details about Service 5.",
+      "price": "$50"
+    },
+    {
+      "id": 6,
+      "name": "Humanities-Education",
+      "image": "https://i.postimg.cc/HnRzWb8F/img-5.jpg",
+      "details": "Details about Service 6.",
+      "price": "$40"
+    },
+    {
+      "id": 7,
+      "name": "Programming-Education",
+      "image": "https://i.postimg.cc/Y959RS5Q/img-8.jpg",
+      "details": "Details about Service 7.",
+      "price": "$30"
+    },
+    {
+      "id": 8,
+      "name": "Wireless-Education",
+      "image": "https://i.postimg.cc/L5DqNS2D/img-2.jpg",
+      "details": "Details about Service 8.",
+      "price": "$50"
+    },
+    {
+      "id": 9,
+      "name": "Carrier-Education",
+      "image": "https://i.postimg.cc/HnRzWb8F/img-5.jpg",
+      "details": "Details about Service 9.",
+      "price": "$40"
+    }
+   
+  ]
+  
